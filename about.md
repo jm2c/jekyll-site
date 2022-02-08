@@ -1,0 +1,7 @@
+---
+layout: default
+title: Acerca de...
+---
+# Acerca de...
+
+Esta página te dice algo acerca de mí.
