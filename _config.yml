@@ -1,3 +1,5 @@
+baseurl: "/jekyll-site"
+
 collections:
   authors:
     output: true
